@@ -1,4 +1,5 @@
 
+
 ## Langkah setup
 
 **buka terminal dan jalankan perintah berikut**
@@ -12,3 +13,5 @@
  **buka terminal baru dan jalankan perintah berikut**
  
  - `npm run dev`
+
+buka link ini di browser  http://127.0.0.1:8000/
